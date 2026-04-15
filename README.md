@@ -1,5 +1,5 @@
 # 📦 TP CRUD Application Cloud Native (Node.js + MongoDB + EJS)
-![Aperçu de l'application](.EXPRESS.PNG)
+![Aperçu de l'application](./EXPRESS.PNG)
 ## 🎯 Présentation du projet
 
 Ce projet est une application web CRUD (Create, Read, Update, Delete) développée avec :
